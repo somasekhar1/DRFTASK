@@ -73,8 +73,8 @@ ex: http://127.0.0.1:8000/update_employee/1/
 data:
 
 {
-  "name": "soma",
-  "email": "soma@gmail.com",
+  "name": "somasekhar",
+  "email": "somasekhar@gmail.com",
   "age": 27,
   "gender": "male",
   "phoneNo": "123-456-7890",
