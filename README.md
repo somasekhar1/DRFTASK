@@ -2,6 +2,7 @@ Step 1: Create the Model
 
 Ensure you have Django installed and set up in your project.
 Create an Employee model in your Django application. This model will define the structure of your employee data.
+
 Step 2: Apply Migrations
 
 Run the following commands to create database tables based on your model:
