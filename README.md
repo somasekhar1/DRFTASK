@@ -1,6 +1,7 @@
 set1: create a model 
 
 python manage.py makemigartions
+
 python manage.py migrate
 
 step 2: run the application
